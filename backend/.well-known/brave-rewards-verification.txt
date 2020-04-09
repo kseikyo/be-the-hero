@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: betheherong.netlify.com
+Token: 4af973b40e50e224f874f2dd62a88e9d420cb86d6967d33e0bad835bfd4721bc

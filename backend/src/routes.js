@@ -6,7 +6,13 @@ const IncidentController = require('./controllers/IncidentController');
 const ProfileController = require('./controllers/ProfileController');
 const SessionController = require('./controllers/SessionController');
 
+const path = require('path');
+
 const routes = express.Router();
+
+routes.get('/.well-known', (req, res) => {
+  return res.sendFile(path.resolve(__dirname, '../.well-known') + '/brave-rewards-verification.txt');
+});
 
 routes.post('/sessions', SessionController.create);
 
