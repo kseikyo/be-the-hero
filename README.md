@@ -39,6 +39,6 @@ The Non-governmental organization <b>(NGOs)</b> are private entities which are i
 
 ### :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
 
-<p align="center">Feito com ❤️ por <strong>Lucas Sierota :wave: </p>
+<p align="center">Made with ❤️ by <strong>Lucas Sierota :wave: </p>
