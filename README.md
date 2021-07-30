@@ -23,7 +23,7 @@ This project was developed using the following technologies:
 - [Eslint](https://www.npmjs.com/package/eslint)
 - [Jest](https://www.npmjs.com/package/jest)
 
-### :muscle: Projeto
+### :muscle: Project
 
 <b>Be the Hero</b> is a project that aims to help NGOs <b>financially<b> so they can keep helping people.
 
